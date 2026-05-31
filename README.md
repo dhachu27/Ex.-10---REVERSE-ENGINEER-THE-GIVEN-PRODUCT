@@ -31,12 +31,17 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
+<img width="707" height="454" alt="Screenshot 2026-05-31 134713" src="https://github.com/user-attachments/assets/48051d55-4500-444c-9154-dd2b0a8cfe8b" />
+
 
 ### Output:
+<img width="868" height="672" alt="Screenshot 2026-05-31 134744" src="https://github.com/user-attachments/assets/ed36e740-d12a-42d8-84ba-519d96e16830" />
+<img width="1094" height="486" alt="Screenshot 2026-05-31 134802" src="https://github.com/user-attachments/assets/2485bccd-e5e5-4130-8325-1b7c2ece9dec" />
 
 
-### Name:
-### Register Number:
+
+### Name: DHARSHINI
+### Register Number: 212225220024
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
